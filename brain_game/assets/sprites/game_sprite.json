@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "game_sprite.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 913,
+				"h": 606
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "playPause",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "hudTick",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 220
+					},
+					"frame": {
+						"x": 515,
+						"y": 1,
+						"w": 275,
+						"h": 220
+					}
+				},
+				{
+					"filename": "bucket",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 218,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 176
+					},
+					"frame": {
+						"x": 515,
+						"y": 223,
+						"w": 218,
+						"h": 176
+					}
+				},
+				{
+					"filename": "hudCross",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 182
+					},
+					"frame": {
+						"x": 515,
+						"y": 401,
+						"w": 182,
+						"h": 182
+					}
+				},
+				{
+					"filename": "b_hexagon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 792,
+						"y": 1,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "circle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 792,
+						"y": 123,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "noodle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 515,
+						"w": 140,
+						"h": 68
+					}
+				},
+				{
+					"filename": "egg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 60
+					},
+					"frame": {
+						"x": 143,
+						"y": 515,
+						"w": 131,
+						"h": 60
+					}
+				},
+				{
+					"filename": "rectangle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 735,
+						"y": 245,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "bread",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 53
+					},
+					"frame": {
+						"x": 276,
+						"y": 515,
+						"w": 125,
+						"h": 53
+					}
+				},
+				{
+					"filename": "juice",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 120
+					},
+					"frame": {
+						"x": 857,
+						"y": 245,
+						"w": 52,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pentagon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 116
+					},
+					"frame": {
+						"x": 735,
+						"y": 367,
+						"w": 123,
+						"h": 116
+					}
+				},
+				{
+					"filename": "hexagon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 120
+					},
+					"frame": {
+						"x": 699,
+						"y": 485,
+						"w": 107,
+						"h": 120
+					}
+				},
+				{
+					"filename": "orange",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 24,
+						"w": 96,
+						"h": 87
+					},
+					"frame": {
+						"x": 403,
+						"y": 515,
+						"w": 96,
+						"h": 87
+					}
+				},
+				{
+					"filename": "banana",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 96
+					},
+					"frame": {
+						"x": 808,
+						"y": 485,
+						"w": 94,
+						"h": 96
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:de4c75069155b578c2f7c2de33408089:d6796049fee125e7550961d72a35b7ba:77a8da5689711a41e2cb17031a4a5e9d$"
+	}
+}
